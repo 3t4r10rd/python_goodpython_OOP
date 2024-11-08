@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8454a589-e199-4e40-9890-0790791ec156" name="Changes" comment="Second step">
+      <change afterPath="$PROJECT_DIR$/1 First steps/Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 First steps/hw/classmethod_hw5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 First steps/hw/classmethods_hw4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 First steps/hw/classmethods_hw6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/descriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/descriptor_hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/descriptor_hw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/private_hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/private_hw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/private_hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/private_hw4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/private_hw5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/property_hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/property_hw6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/hw/property_hw7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Access, properties, descriptors/public, private, protected.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/practis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/practis.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;3t4r10rd&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/3t4r10rd/python_goodpython_OOP.git&quot;,
+    &quot;accountId&quot;: &quot;19b7adf8-f0e4-4f4b-8ff5-ec6deaa6c5bf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2h3W7e8FAn8MlleSS8J6CQxXCbx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Class_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_methods_hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_methods_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_methods_hw3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_methods_hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Class_methods_hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes_hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Classes_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classmethod_hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classmethods_hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classmethods_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classmethods_hw3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classmethods_hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classmethods_hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classmethods_learn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.descriptor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.descriptor_hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.descriptor_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hhw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_hw8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.init_lesson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_hw3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_lesson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.private_hw1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.private_hw2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.private_hw4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.private_hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.private_hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.private_hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_hw5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_hw6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.public, private, protected.executor&quot;: &quot;Run&quot;,
+    &quot;Python.repeat.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/AppData/Local/Programs/Python/Python312&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\_learn\IT\Python\Добрый, добрый Python ООП\practis\2 Access, properties, descriptors\hw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\_learn\IT\Python\Добрый, добрый Python ООП\practis\1 First steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Class_methods_hw5">
+    <configuration name="Class_methods_hw5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="practis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 First steps/hw" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 First steps/hw/Class_methods_hw5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Classes" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="practis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 First steps" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 First steps/Classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classmethods_hw4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="practis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 First steps/hw" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 First steps/hw/classmethods_hw4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init_hw1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="practis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 First steps/hw" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 First steps/hw/init_hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="init_hw4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="practis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 First steps/hw" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 First steps/hw/init_hw4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Class_methods_hw5" />
+      <item itemvalue="Python.Classes" />
+      <item itemvalue="Python.classmethods_hw4" />
+      <item itemvalue="Python.init_hw1" />
+      <item itemvalue="Python.init_hw4" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8454a589-e199-4e40-9890-0790791ec156" name="Changes" comment="" />
+      <created>1716823074666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716823074666</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Creating">
+      <option name="closed" value="true" />
+      <created>1716823172843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716823172843</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second step">
+      <option name="closed" value="true" />
+      <created>1729606670418</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729606670418</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating" />
+    <MESSAGE value="Second step" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second step" />
+  </component>
+</project>
